@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gitops-sample-nodejs
 
 Desired Kubernetes state for [sample-nodejs](https://github.com/eliranbt-commits/sample-nodejs). **Argo CD watches this repo only.**
@@ -23,3 +24,6 @@ Argo CD Application (applied from the app repo bootstrap) uses:
 - `repoURL: https://github.com/eliranbt-commits/gitops-sample-nodejs`
 - `path: helm/sample-nodejs`
 - value files: `values.yaml` + `values-gitops.yaml`
+=======
+# gitops-sample-nodejs
+>>>>>>> origin/main
