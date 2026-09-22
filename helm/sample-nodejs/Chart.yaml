@@ -3,4 +3,4 @@ name: sample-nodejs
 description: Sample Node.js app for Kubernetes (Rafael DevOps task)
 type: application
 version: 0.1.6
-appVersion: "1.0.5"
+appVersion: "1.0.6"
